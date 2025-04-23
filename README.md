@@ -2,7 +2,7 @@
 
 ### Professional affiliation
 
-[Core Unit Bioinformatics](www.cubi.team),\
+[Core Unit Bioinformatics](https://www.cubi.team),\
 [Medical Faculty](https://www.medizin.hhu.de/) and [University Hospital Düsseldorf](https://www.uniklinik-duesseldorf.de/),\
 [Heinrich Heine University](https://www.hhu.de), Düsseldorf, Germany
 
