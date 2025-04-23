@@ -7,11 +7,11 @@
 ## Github activity
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/core-unit-bioinformatics/core-unit-bioinformatics/output/github-contribution-grid-snake.svg" alt="GitHub contribution personal account"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=core-unit-bioinformatics&theme=default" alt="My team GitHub stats"/>
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ptrebert/ptrebert/output/github-contribution-grid-snake.svg" alt="GitHub contribution personal account"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptrebert&theme=default" alt="My personal GitHub stats"/>
 </div>
 
 <!--
