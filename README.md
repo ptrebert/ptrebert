@@ -2,17 +2,16 @@
 
 ### Professional affiliation
 
+[Core Unit Bioinformatics](www.cubi.team), [Medical Faculty](https://www.medizin.hhu.de/) and [University Hospital](https://www.uniklinik-duesseldorf.de/),
+[Heinrich Heine University](https://www.hhu.de), Düsseldorf, Germany
+
 ## Online profiles
 
-## Github activity
+[ORCID](https://orcid.org/0000-0001-7441-532X)
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=core-unit-bioinformatics&theme=default" alt="My team GitHub stats"/>
-</div>
+[Google Scholar](https://scholar.google.com/citations?user=TilLlWIAAAAJ&hl=en)
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptrebert&theme=default" alt="My personal GitHub stats"/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/ptrebert/)
 
 <!--
 **ptrebert/ptrebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
