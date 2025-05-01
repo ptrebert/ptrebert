@@ -14,6 +14,31 @@
 
 [LinkedIn](https://www.linkedin.com/in/ptrebert/)
 
+## Laws of the process
+
+```
+It always takes longer than you expect, even when you take into account Hofstadter's Law.
+```
+[--- Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
+
+```
+Adding manpower to a late software project makes it later.
+```
+[--- Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
+
+```
+Organizations which design systems (in the broad sense used here) are constrained
+to produce designs which are copies of the communication structures of these organizations.
+```
+[--- Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)
+
+```
+Every application has an inherent amount of irreducible complexity.
+The only question is: Who will have to deal with it — the user,
+the application developer, or the platform developer?
+```
+[--- Tesler's Law / The Law of Conservation of Complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity)
+
 <!--
 **ptrebert/ptrebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
