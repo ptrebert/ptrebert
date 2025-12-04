@@ -50,12 +50,12 @@ In any dispute the intensity of feeling is
 inversely proportional to the value of the issues at stake.
 ```
 
+#### [--- Law of Demeter / Principle of least knowledge (Ian Holland)](https://en.wikipedia.org/wiki/Law_of_Demeter)
 ```
 1. Each unit should have only limited knowledge about other units: only units "closely" related to the current unit.
 2. Each unit should only talk to its friends; don't talk to strangers.
 3. Only talk to your immediate friends.
 ```
-[--- Law of Demeter / Principle of least knowledge (Ian Holland)](https://en.wikipedia.org/wiki/Law_of_Demeter)
 
 <!--
 **ptrebert/ptrebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
